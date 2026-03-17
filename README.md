@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/26041280/README.md)
 # CTF Write-ups
 
 Step-by-step solutions for CTF challenges I've solved on picoCTF and other platforms.
@@ -55,4 +54,4 @@ Each write-up covers the tools used, my thought process, and what I learned.
 
 - [picoCTF](https://play.picoctf.org/users/ozcanceliksf)
 - [TryHackMe](https://tryhackme.com/p/ozcanceliksf)
-- [Portfolio](https://ozcanceliksf.github.io)
+- [HackTheBox](https://app.hackthebox.com/profile/ozcanceliksf)
